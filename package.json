@@ -1,0 +1,14 @@
+{
+  "name": "cloze_constructors",
+  "version": "1.0.0",
+  "description": "cloze constructors homework assignmenrt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloze"
+  ],
+  "author": "timdecilveo",
+  "license": "ISC"
+}
